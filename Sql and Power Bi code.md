@@ -1,6 +1,6 @@
 ## Sales Insights Data Analysis
 
-SQL database dump is in db_dump.sql file above.
+SQL database dump is in db_dump.sql file.
 
 ### Data Analysis Using SQL
 
