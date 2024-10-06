@@ -24,6 +24,7 @@ The goal is to reduce the manual time spent on collecting data and enable data-d
 **3. Sales Analysts stop data gathering manually in order to save 20% of their buisness time.**
 
 ### Technologies Used
+
 **SQL: For querying and managing the sales data.**
 **Power BI: For creating interactive and automated dashboards.**
 
