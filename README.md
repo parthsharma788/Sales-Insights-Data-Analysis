@@ -29,7 +29,7 @@ The goal is to reduce the manual time spent on collecting data and enable data-d
 
 **Power BI: For creating interactive and automated dashboards.**
 
-## 👨‍💻Author - Parth Sharma
-## 📧 Email: Parthsharma2300@gmail.com
-## 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
-### ⭐ If you found this helpful, consider giving it a star!
+#### 👨‍💻Author - Parth Sharma
+#### 📧 Email: Parthsharma2300@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
+⭐ If you found this helpful, consider giving it a star!
