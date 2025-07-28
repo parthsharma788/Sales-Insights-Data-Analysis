@@ -23,6 +23,9 @@ The goal is to reduce the manual time spent on collecting data and enable data-d
   2. Sales team able to take better decisions and prove 10% cost savings of total spend.
   3. Sales Analysts stop data gathering manually in order to save 20% of their buisness time.**
 
+<img width="1171" height="729" alt="image" src="https://github.com/user-attachments/assets/5d74be1a-758d-47c8-a069-b00f78605b82" />
+<img width="1168" height="710" alt="image" src="https://github.com/user-attachments/assets/f65756c6-a490-42b2-a9de-968737cc9385" />
+
 ### 🛠️Technologies Used
 
 **SQL: For querying and managing the sales data.**
