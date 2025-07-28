@@ -1,7 +1,7 @@
 # 🔍Sales Insights Data Analysis
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/5d74be1a-758d-47c8-a069-b00f78605b82" />
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f65756c6-a490-42b2-a9de-968737cc9385" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5d74be1a-758d-47c8-a069-b00f78605b82" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f65756c6-a490-42b2-a9de-968737cc9385" />
 
 ### 📌Project Overview
 
